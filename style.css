@@ -1,0 +1,73 @@
+html{
+    background-color: lightgoldenrodyellow;
+}
+
+h1.titulo{
+    position: relative;
+    text-align: center;
+    text-decoration: double underline;
+    color: green;
+}
+
+div.smr {
+    background-color: pink;
+    height: 185px;
+}
+
+a.smr{
+    position: relative;
+    left: 20%;
+}
+
+img.smr{
+    position: relative;
+    left: 20%;
+    height: 140px;
+}
+
+div.dam{
+    background-color: gray;
+    height: 185px;
+}
+
+a.dam{
+    position: relative;
+    text-align: center;
+}
+
+img.dam{
+    position: relative;
+    left: 42%;
+    height: 140px;
+
+}
+
+div.asir{
+    background-color: lightblue;
+    height: 185px;
+}
+
+a.asir{
+    position: relative;
+    left: 60%;
+}
+
+img.asir{
+    position: relative;
+    left: 60%;
+    height: 140px;
+}
+
+footer{
+    background-color: yellow;
+    color: blue;
+    font-weight: bold;
+}
+
+p{
+    text-align: center;
+}
+
+span.nicolas{
+    color: red;
+}

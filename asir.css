@@ -1,0 +1,24 @@
+html{
+    background-color: lightgoldenrodyellow;
+}
+
+h1.titulo{
+    position: relative;
+    text-align: center;
+    text-decoration: double underline;
+    color: green;
+}
+
+footer{
+    background-color: yellow;
+    color: blue;
+    font-weight: bold;
+}
+
+p{
+    text-align: center;
+}
+
+span.nicolas{
+    color: red;
+}

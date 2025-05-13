@@ -1,0 +1,41 @@
+html{
+    background-color: lightgoldenrodyellow;
+}
+
+h1.titulo{
+    position: relative;
+    text-align: center;
+    text-decoration: double underline;
+    color: green;
+}
+
+h2.horario{
+    color: blue;
+}
+
+table{
+    border:2px solid ;
+}
+
+tr{
+    border: 1px solid;
+}
+
+td{
+    border: 1px solid;
+    padding: 3px;
+}
+
+footer{
+    background-color: yellow;
+    color: blue;
+    font-weight: bold;
+}
+
+p{
+    text-align: center;
+}
+
+span.nicolas{
+    color: red;
+}
